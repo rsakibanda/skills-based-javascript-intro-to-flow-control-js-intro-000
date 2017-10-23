@@ -8,15 +8,15 @@ function teenager(age) {
 
 function ageChecker(age) {
   return basicTeenager(age);
-  
+
 }
 
 function ternaryTeenager(age) {
   return basicTeenager(age);
-  
+
 }
 
 function switchAge(age) {
   return basicTeenager(age);
-  
+
 }
