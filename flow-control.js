@@ -21,7 +21,7 @@ function ageChecker(age) {
 }
 
 function ternaryTeenager(age) {
-  return basicTeenager(age);
+  return age>12 && age<20?'You are a teenager':undefined;;
 }
 
 function switchAge(age) {
